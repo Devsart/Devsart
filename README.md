@@ -1,6 +1,8 @@
-### Hi there 👋
-
-<!--
+#  :panda_face: – Sart says: Hello friend!:wave:
+###  :house: Welcome to my home! Here you can sit, read and take a coffee with me :coffee:
+#### :book: I'm currently improving my coding skills and studying about machine learning :robot:
+####  🤔 Any suggestions or tips you can send me a pull request! :octocat:
+ <!--
 **Devsart/Devsart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
