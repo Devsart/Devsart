@@ -1,6 +1,6 @@
 ### **Welcome to my GitHub! :octocat:**  
  I'm Matheus Sartor, also known as Sart!  
- I'm a mechanical engineering student and full-stack developer. (:computer:)  
+ I'm a mechanical engineering student and developer. (:computer:)  
  Currently, I'm interested by Machine Learning and A.I. (:robot:)  
  In my life, I always loved music (:guitar:), drawing (:pencil2:) and art(:art:).     
  You can find me at my social media down here! :point_down:
